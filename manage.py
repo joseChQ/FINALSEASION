@@ -20,7 +20,7 @@ def main():
 if __name__ == '__main__':
     main()
 
+# si funciona confia en mi
 
 
-# jose tengo sed 
-# yo tbm
+
