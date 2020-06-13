@@ -24,3 +24,6 @@ if __name__ == '__main__':
 
 
 
+# jose tengo sed 
+# yo tbm
+#................
