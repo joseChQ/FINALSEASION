@@ -21,3 +21,4 @@ if __name__ == '__main__':
     main()
 
  #main() si funcionas 
+ #no estoy inspirada
